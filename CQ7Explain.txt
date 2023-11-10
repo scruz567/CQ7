@@ -1,0 +1,7 @@
+RunningTimeOfAlgorithms
+Time Complexity: O(n^2) While-loop inside of For-loop that runs on 'n' (size of input).
+Space Complexity: O(n) 
+
+IceCreamParlor - Brute Force Approach
+Time Complexity: O(n^2) nested for loop based on size of arr (input)
+Space Complexity: O(n)
